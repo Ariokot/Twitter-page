@@ -1,0 +1,26 @@
+.click{
+    display: block;
+    margin: 10px;
+    width: 300px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.login{
+    padding:10px;
+    border-radius: 15px;
+    width: 80px;
+    border: thin solid deepskyblue;
+    background-color: white;
+}
+
+.click.one {
+    background-color: deepskyblue;
+    border: thin solid deepskyblue;
+    color: white;
+}
+.click.two {
+    border: thin solid deepskyblue;
+    background-color: white;
+    color: deepskyblue;
+}
